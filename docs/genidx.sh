@@ -123,9 +123,3 @@ if ('serviceWorker' in navigator) {
 </html>
 EOT
 
-
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/mulhouse/mutantpillow.git
-git push -u origin master
