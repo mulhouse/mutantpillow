@@ -1,9 +1,9 @@
 {
   "name": "Mutant Pillow",
-  "short_name": "Mutant Pillow",
+  "short_name": "M_Pillow",
   "theme_color": "black",
   "background_color": "black",
-  "display": "browser",
+  "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "./index.html",
