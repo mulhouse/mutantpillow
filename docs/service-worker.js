@@ -1,13 +1,13 @@
 const version = "1.0.0";
 const appName = "Donna";
 const CACHES_TO_STORE =[
-    "/",
-    "/audio/To grow up (1899)/05 San Ku Kai (la guerre).mp3",
-    "/audio/Tour de l'Europe (2004)/03-Scorpio.mp3",
-    "/audio/Strawberries need rain (1797)/07-Grand'Ma.mp3",
-    "/audio/Strawberries need rain (1797)/12-Wilk.mp3",
-    "/index.html",
-    "manifest.json",
+    "/mutantpillow/",
+    "/mutantpillow/audio/To grow up (1899)/05 San Ku Kai (la guerre).mp3",
+    "/mutantpillow/audio/Tour de l'Europe (2004)/03-Scorpio.mp3",
+    "/mutantpillow/audio/Strawberries need rain (1797)/07-Grand'Ma.mp3",
+    "/mutantpillow/audio/Strawberries need rain (1797)/12-Wilk.mp3",
+    "/mutantpillow/index.html",
+    "/mutantpillow/manifest.json",
     "https://fonts.googleapis.com/icon?family=Material+Icons",
     "https://fonts.gstatic.com/s/materialicons/v41/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
 ];
